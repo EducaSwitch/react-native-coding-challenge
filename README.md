@@ -40,6 +40,11 @@ You can read more about the Github API over [here](https://developer.github.com/
 
 ## Mockups
 
+![alt text](https://raw.githubusercontent.com/teopeurt/react-native-coding-challenge/master/screen-1.png)
+
+![alt text](https://raw.githubusercontent.com/teopeurt/react-native-coding-challenge/master/screen-2.png)
+
+![alt text](https://raw.githubusercontent.com/teopeurt/react-native-coding-challenge/master/screen-3.png)
 
 ## Technologies to use 
 Choose whatever React Native Technologies you're most familiar with. 
