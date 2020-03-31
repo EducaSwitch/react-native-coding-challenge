@@ -38,6 +38,12 @@ To get the 3rd page, you add `&page=3` ... etc
 You can read more about the Github API over [here](https://developer.github.com/v3/search/#search-repositories
 ).
 
+To list contributors
+
+`https://api.github.com/repos/{owner}/{name}/contributors`
+
+[Contributors API](https://developer.github.com/v3/repos/#list-contributors)
+
 ## Mockups
 <img src="https://raw.githubusercontent.com/teopeurt/react-native-coding-challenge/master/screen-1.png" width="448">
 
