@@ -36,3 +36,9 @@ You need to use the Github GraphQL API <https://developer.github.com/v4/>
 * For fetching: Apollo Client <https://www.apollographql.com/client/>
 * For state: Your preference. Context, Redux, Mobx, etc
 
+## Required
+
+- App needs to be created with **Expo CLI** <https://docs.expo.io/workflow/expo-cli/>
+- App needs to use Expo universal arquitecture
+- App needs to be running on Web as first target. Bonus points if it runs on IOS or Android. (if it does mention it on README.md)
+
